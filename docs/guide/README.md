@@ -13,5 +13,8 @@
 * [Ver 0.1.0](./Release-note/Ver-0-1.md)
 * [Ver 0.2.0](./Release-note/Ver-0-2.md)
 * [Ver 0.3.0](./Release-note/Ver-0-3.md)
-* [Ver 0.4.2](./Release-note/Ver-0-4.md)
+* [Ver 0.4.0](./Release-note/Ver-0-4.md)
 * [Ver 0.5.0](./Release-note/Ver-0-5.md)
+
+## 利用規約
+* [利用規約](./legal/terms-of-service.md)

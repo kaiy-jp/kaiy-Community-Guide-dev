@@ -75,16 +75,18 @@ const autometaOptions = {
               title: 'リリースノート',
               collapsable: false,
               children: [
-                '/guide/Release-note/Ver-0-1-0.md',
-                '/guide/Release-note/Ver-0-2-0.md',
-                '/guide/Release-note/Ver-0-3-0.md',
-                '/guide/Release-note/Ver-0-4-2.md',
-                '/guide/Release-note/Ver-0-4-3.md',
-                '/guide/Release-note/Ver-0-4-4.md',
-                '/guide/Release-note/Ver-0-4-5.md',
-                '/guide/Release-note/Ver-0-5-0.md',
-                '/guide/Release-note/Ver-0-5-5.md',
-                '/guide/Release-note/Ver-0-5-6.md'
+                '/guide/Release-note/Ver-0-1.md',
+                '/guide/Release-note/Ver-0-2.md',
+                '/guide/Release-note/Ver-0-3.md',
+                '/guide/Release-note/Ver-0-4.md',
+                '/guide/Release-note/Ver-0-5.md'
+              ]
+            },
+            {
+              title: "利用規約",
+              collapsable: false,
+              children: [
+                '/guide/legal/terms-of-service.md'
               ]
             },
           ]
