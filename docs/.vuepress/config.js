@@ -42,7 +42,7 @@ const autometaOptions = {
       },
       logo: '/logo_pin.png',
       docsDir: 'docs',
-      repo: 'https://github.com/dobromir-hristov/vuecommunity',
+      repo: 'https://github.com/kaiy-jp/kaiy-community',
       editLinks: true,
       sidebarDepth: 3,
       locales: {
@@ -68,7 +68,7 @@ const autometaOptions = {
                 '/guide/help/how-to-make-a-call.md',
                 '/guide/help/how-to-play-youtube-videos-on-kaiy-co-floor.md',
                 '/guide/help/how-to-start-the-floor-administration-menu.md',
-                '/guide/help/concept-of-bandwidth-during-video-calls.mdd'
+                '/guide/help/concept-of-bandwidth-during-video-calls.md'
               ]
             },
             {

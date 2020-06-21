@@ -10,13 +10,8 @@
 * [ビデオ通話時の「帯域」の考え方](./help/concept-of-bandwidth-during-video-calls.md)
 
 ## リリースノート
-* [Ver 0.1.0](./Release-note/Ver-0-1-0.md)
-* [Ver 0.2.0](./Release-note/Ver-0-2-0.md)
-* [Ver 0.3.0](./Release-note/Ver-0-3-0.md)
-* [Ver 0.4.2](./Release-note/Ver-0-4-2.md)
-* [Ver 0.4.3](./Release-note/Ver-0-4-3.md)
-* [Ver 0.4.4](./Release-note/Ver-0-4-4.md)
-* [Ver 0.4.5](./Release-note/Ver-0-4-5.md)
-* [Ver 0.5.0](./Release-note/Ver-0-5-0.md)
-* [Ver 0.5.5](./Release-note/Ver-0-5-5.md)
-* [Ver 0.5.6](./Release-note/Ver-0-5-6.md)
+* [Ver 0.1.0](./Release-note/Ver-0-1.md)
+* [Ver 0.2.0](./Release-note/Ver-0-2.md)
+* [Ver 0.3.0](./Release-note/Ver-0-3.md)
+* [Ver 0.4.2](./Release-note/Ver-0-4.md)
+* [Ver 0.5.0](./Release-note/Ver-0-5.md)
