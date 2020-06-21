@@ -1,0 +1,22 @@
+# サイトマップ
+
+## ヘルプ
+* [フロアへ入る方法](./help/how-to-enter-the-floor.md)
+* [他の人を招待する方法](./help/how-to-invite-others.md)
+* [フロアから離脱する方法](./help/how-to-leave-floor.md)
+* [通話をする方法](./help/how-to-make-a-call.md)
+* [YouTubeの動画をkaiy.coのフロアで再生する方法](./help/how-to-play-youtube-videos-on-kaiy-co-floor.md)
+* [フロアーの管理メニューの起動方法](./help/how-to-start-the-floor-administration-menu.md)
+* [ビデオ通話時の「帯域」の考え方](./help/concept-of-bandwidth-during-video-calls.md)
+
+## リリースノート
+* [Ver 0.1.0](./Release-note/Ver-0-1-0.md)
+* [Ver 0.2.0](./Release-note/Ver-0-2-0.md)
+* [Ver 0.3.0](./Release-note/Ver-0-3-0.md)
+* [Ver 0.4.2](./Release-note/Ver-0-4-2.md)
+* [Ver 0.4.3](./Release-note/Ver-0-4-3.md)
+* [Ver 0.4.4](./Release-note/Ver-0-4-4.md)
+* [Ver 0.4.5](./Release-note/Ver-0-4-5.md)
+* [Ver 0.5.0](./Release-note/Ver-0-5-0.md)
+* [Ver 0.5.5](./Release-note/Ver-0-5-5.md)
+* [Ver 0.5.6](./Release-note/Ver-0-5-6.md)
