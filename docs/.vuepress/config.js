@@ -82,6 +82,13 @@ const autometaOptions = {
                 '/guide/Release-note/Ver-0-5.md'
               ]
             },
+            {
+              title: "利用規約",
+              collapsable: false,
+              children: [
+                '/guide/legal/terms-of-service.md'
+              ]
+            },
           ]
         }
       }
