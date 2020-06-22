@@ -13,27 +13,6 @@ const autometaOptions = {
         description: 'The community guide to kaiy'
       }
     },
-    plugins: [
-      [
-        '@vuepress/google-analytics',
-        {
-          'ga': 'UA-29425482-12'
-        }
-      ],
-      [
-        'container',
-        {
-          type: 'contribute',
-          before: () => `<div class="tip custom-block">
-            <p><strong>This section could use a little bit of love.</strong></p>
-            <p>If you're able to, please consider helping the Vue Community by contributing a PR.</p>
-            <p>You'll find a link to edit this page at the bottom.</p>`
-          ,
-          after: '</div>'
-        }
-      ],
-      ['autometa', autometaOptions]
-    ],
     // serviceWorker: true,
     themeConfig: {
       algolia: {
