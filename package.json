@@ -4,10 +4,19 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "1.5.2"
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vuepress": "1.5.2",
+    "webpack": "^4.43.0"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@vue/component-compiler-utils": "^3.1.2",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
   }
 }
