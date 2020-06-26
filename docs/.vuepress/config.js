@@ -73,8 +73,7 @@ const autometaOptions = {
       }
     },
     head: [
-      ['link', { rel: 'favicon', type: 'image/,png', sizes: '48×48', href: '/favicons/favicon.png' }]
-
+      ['link', { rel: 'favicon', type: 'image/png', sizes: '48×48', href: '/favicons/favicon.png'}]
     ]
   }
   
