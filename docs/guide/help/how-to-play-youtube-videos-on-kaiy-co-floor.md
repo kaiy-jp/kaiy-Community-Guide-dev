@@ -14,6 +14,6 @@ kaiy.coのフロアで、DJブースと書いてあるところの下の窓に�
 ### 5. 動画を再生する
 playボタンをクリックすると、画面の上部中央にある窓でYouTubeの動画を再生することができます。
 ### 6. 再生中の動画を停止する
-YouTubeの動画を再生されている窓の左下にある![](../../.vuepress/dist/assets/img/help/movie_stop.png)をクリックすると、再生中の動画を停止することができます。
+YouTubeの動画を再生されている窓の左下にある![](../../.vuepress/public/movie_stop.png)をクリックすると、再生中の動画を停止することができます。
 ### 7. 停止中の動画を再び再生する
-YouTubeの動画を再生されている窓の左下にある![](../../.vuepress/dist/assets/img/help/movie_playback.png)をクリックすると、停止中の動画を再生することができます。
+YouTubeの動画を再生されている窓の左下にある![](../../.vuepress/public/movie_playback.png)をクリックすると、停止中の動画を再生することができます。
