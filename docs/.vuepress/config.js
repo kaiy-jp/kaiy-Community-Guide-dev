@@ -1,10 +1,10 @@
-const autometaOptions = {
+  const autometaOptions = {
     image: false,
     site: {
       name: 'kaiy Community Guide'
     },
   }
-  
+
   module.exports = {
     locales: {
       '/': {
@@ -86,4 +86,3 @@ const autometaOptions = {
       ['meta', { property: 'twitter:image:src', content: 'https://vue-community.org/cover.png' }]
     ]
   }
-  
