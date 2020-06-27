@@ -19,7 +19,7 @@ const autometaOptions = {
         apiKey: '8c789b5d0ee680a4a383673877be347d',
         indexName: 'kaiy-community'
       },
-      logo: '/logo_pin.png',
+      logo: '/k-co-logo-pink.svg',
       docsDir: 'docs',
       repo: 'https://github.com/kaiy-jp/kaiy-community',
       editLinks: true,
