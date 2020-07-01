@@ -2,7 +2,7 @@
 home: true
 actionText: Get Started →
 actionLink: /guide/
-heroImage: /logo_full.svg
+heroImage: /k-co-logo-pink.svg
 heroAlt: kaiy Community Guide
 heroText: 
 features:
