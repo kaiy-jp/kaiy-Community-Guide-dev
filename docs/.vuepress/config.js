@@ -1,3 +1,4 @@
+  
   const autometaOptions = {
     image: false,
     site: {
