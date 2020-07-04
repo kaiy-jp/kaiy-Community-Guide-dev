@@ -52,14 +52,12 @@
               ]
             },
             {
-              title: 'リリースノート',
               collapsable: false,
               children: [
                 '/guide/Release-note/release-note.md'
               ]
             },
             {
-              title: "利用規約",
               collapsable: false,
               children: [
                 '/guide/legal/terms-of-service.md'
