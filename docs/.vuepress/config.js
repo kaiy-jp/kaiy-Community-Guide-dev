@@ -39,6 +39,12 @@
           sidebar: [
             '/',
             {
+              collapsable: false,
+              children: [
+                '/guide/Release-note/release-note.md'
+              ]
+            },
+            {
               title: 'ヘルプ',
               collapsable: false,
               children: [
@@ -54,7 +60,7 @@
             {
               collapsable: false,
               children: [
-                '/guide/Release-note/release-note.md'
+                '/guide/webrtc-debug/webrtc-debug.md'
               ]
             },
             {
