@@ -1,3 +1,4 @@
+  
   const autometaOptions = {
     image: false,
     site: {
@@ -54,11 +55,7 @@
               title: 'リリースノート',
               collapsable: false,
               children: [
-                '/guide/Release-note/Ver-0-1.md',
-                '/guide/Release-note/Ver-0-2.md',
-                '/guide/Release-note/Ver-0-3.md',
-                '/guide/Release-note/Ver-0-4.md',
-                '/guide/Release-note/Ver-0-5.md'
+                '/guide/Release-note/release-note.md'
               ]
             },
             {
