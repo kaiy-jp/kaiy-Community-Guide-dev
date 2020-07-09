@@ -66,6 +66,12 @@
             {
               collapsable: false,
               children: [
+                './guide/glossary/glossary.md'
+              ]
+            },
+            {
+              collapsable: false,
+              children: [
                 '/guide/legal/terms-of-service.md'
               ]
             },
