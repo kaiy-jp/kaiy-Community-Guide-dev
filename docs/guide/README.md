@@ -13,4 +13,6 @@
 
 ## [WebRTCのデバッグツール](./webrtc-debug/webrtc-debug.md)
 
+## [用語集](./glossary/glossary.md)
+
 ## [利用規約](./legal/terms-of-service.md)

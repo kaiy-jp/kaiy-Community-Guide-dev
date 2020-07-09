@@ -54,13 +54,18 @@
                 '/guide/help/how-to-make-a-call.md',
                 '/guide/help/how-to-play-youtube-videos-on-kaiy-co-floor.md',
                 '/guide/help/how-to-start-the-floor-administration-menu.md',
-                '/guide/help/concept-of-bandwidth-during-video-calls.md'
               ]
             },
             {
               collapsable: false,
               children: [
                 '/guide/webrtc-debug/webrtc-debug.md'
+              ]
+            },
+            {
+              collapsable: false,
+              children: [
+                './guide/glossary/glossary.md'
               ]
             },
             {
