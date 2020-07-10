@@ -41,7 +41,7 @@
             {
               collapsable: false,
               children: [
-                '/guide/Release-note/release-note.md'
+                '/guide/Release-note/README.md'
               ]
             },
             {
