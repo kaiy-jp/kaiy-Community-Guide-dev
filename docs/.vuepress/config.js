@@ -45,7 +45,6 @@
               ]
             },
             {
-              title: 'ヘルプ',
               collapsable: false,
               children: [
                 '/guide/help/help.md',
