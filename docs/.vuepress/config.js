@@ -39,30 +39,42 @@
           sidebar: [
             '/',
             {
+              title: 'リリースノート',
               collapsable: false,
               children: [
-                '/guide/Release-note/release-note.md'
+                '/guide/release-note/release-note.md'
               ]
             },
             {
+              title: 'Get Started',
               collapsable: false,
               children: [
-                '/guide/help/help.md',
+                '/guide/get-started/get-started.md',
               ]
             },
             {
+              title: 'User Guide',
               collapsable: false,
               children: [
-                '/guide/webrtc-debug/webrtc-debug.md'
+                '/guide/user-guide/user-guide.md',
               ]
             },
             {
+              title: 'Developer Guide',
+              collapsable: false,
+              children: [
+                '/guide/developer-guide/developer-guide.md'
+              ]
+            },
+            {
+              title: '用語集',
               collapsable: false,
               children: [
                 '/guide/glossary/glossary.md'
               ]
             },
             {
+              title: '利用規約',
               collapsable: false,
               children: [
                 '/guide/legal/legal.md'

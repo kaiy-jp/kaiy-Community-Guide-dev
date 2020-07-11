@@ -1,10 +1,12 @@
 # サイトマップ
 
-## [リリースノート](./Release-note/release-note.md)
+## [リリースノート](./release-note/release-note.md)
 
-## [ヘルプ](./help/help.md)
+## [Get Started](./get-started/get-started.md)
 
-## [WebRTCのデバッグツール](./webrtc-debug/debug.md)
+## [User Guide](./user-guide/user-guide.md)
+
+## [Developer Guide](./developer-guide/developer-guide.md)
 
 ## [用語集](./glossary/glossary.md)
 

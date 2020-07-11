@@ -1,4 +1,4 @@
-# WebRTCのデバッグに使えるツール
+# WebRTCのデバッグツール
 
 ## 1. Google Chrome
 ### `chrome://webrtc-internals/`をアドレスバーに入力してください。
