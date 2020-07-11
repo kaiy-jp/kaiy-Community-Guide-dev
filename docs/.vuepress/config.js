@@ -41,32 +41,32 @@
             {
               collapsable: false,
               children: [
-                '/guide/Release-note/README.md'
+                '/guide/Release-note/release.md'
               ]
             },
             {
               title: 'ヘルプ',
               collapsable: false,
               children: [
-                '/guide/help/README.md',
+                '/guide/help/help.md',
               ]
             },
             {
               collapsable: false,
               children: [
-                '/guide/webrtc-debug/README.md'
+                '/guide/webrtc-debug/webrtc-debug.md'
               ]
             },
             {
               collapsable: false,
               children: [
-                '/guide/glossary/README.md'
+                '/guide/glossary/glossary.md'
               ]
             },
             {
               collapsable: false,
               children: [
-                '/guide/legal/README.md'
+                '/guide/legal/legal.md'
               ]
             },
           ]

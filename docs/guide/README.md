@@ -1,11 +1,11 @@
 # サイトマップ
 
-## [リリースノート](./Release-note/README.md)
+## [リリースノート](./Release-note/release-note.md)
 
-## [ヘルプ](./help/README.md)
+## [ヘルプ](./help/help.md)
 
-## [WebRTCのデバッグツール](./webrtc-debug/README.md)
+## [WebRTCのデバッグツール](./webrtc-debug/debug.md)
 
-## [用語集](./glossary/README.md)
+## [用語集](./glossary/glossary.md)
 
-## [利用規約](./legal/README.md)
+## [利用規約](./legal/legal.md)
