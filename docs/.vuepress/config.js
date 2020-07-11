@@ -41,13 +41,25 @@
             {
               collapsable: false,
               children: [
-                '/guide/Release-note/release-note.md'
+                '/guide/release-note/release-note.md'
               ]
             },
             {
               collapsable: false,
               children: [
-                '/guide/help/help.md',
+                '/guide/get-started/get-started.md',
+              ]
+            },
+            {
+              collapsable: false,
+              children: [
+                '/guide/get-started/get-started.md',
+              ]
+            },
+            {
+              collapsable: false,
+              children: [
+                '/guide/user-guide/user-guide.md',
               ]
             },
             {
