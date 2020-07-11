@@ -1,1 +1,0 @@
-# kaiy Community ヘルプ

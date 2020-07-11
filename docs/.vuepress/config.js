@@ -45,15 +45,9 @@
               ]
             },
             {
-              title: 'ヘルプ',
               collapsable: false,
               children: [
-                '/guide/help/how-to-enter-the-floor.md',
-                '/guide/help/how-to-invite-others.md',
-                '/guide/help/how-to-leave-floor.md',
-                '/guide/help/how-to-make-a-call.md',
-                '/guide/help/how-to-play-youtube-videos-on-kaiy-co-floor.md',
-                '/guide/help/how-to-start-the-floor-administration-menu.md',
+                '/guide/help/help.md',
               ]
             },
             {
@@ -65,13 +59,13 @@
             {
               collapsable: false,
               children: [
-                './guide/glossary/glossary.md'
+                '/guide/glossary/glossary.md'
               ]
             },
             {
               collapsable: false,
               children: [
-                '/guide/legal/terms-of-service.md'
+                '/guide/legal/legal.md'
               ]
             },
           ]
