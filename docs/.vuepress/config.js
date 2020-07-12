@@ -65,7 +65,9 @@
               title: 'Get Started',
               collapsable: false,
               children: [
-                '/guide/get-started/get-started.md'
+                '/guide/get-started/what-is-kaiy.md',
+                "/guide/get-started/kaiy's-vision.md",
+                '/guide/get-started/kaiy-overview.md'
               ]
             },
             {
@@ -83,17 +85,25 @@
               ]
             },
             {
-              title: '用語集',
-              collapsable: false,
-              children: [
-                '/guide/glossary/glossary.md'
-              ]
-            },
-            {
               title: '利用規約',
               collapsable: false,
               children: [
-                '/guide/legal/legal.md'
+                '/guide/legal/previous.md',
+                '/guide/legal/1-apply.md',
+                '/guide/legal/2-registration.md',
+                '/guide/legal/3-userid-password.md',
+                '/guide/legal/4-third-usage-fee-payment.md',
+                '/guide/legal/5-prohibitions.md',
+                '/guide/legal/6-discontinuation-of-offer.md',
+                '/guide/legal/7-usage-restrictions-deregistration.md',
+                '/guide/legal/8-unsubscribe.md',
+                '/guide/legal/9-disclaimer.md',
+                '/guide/legal/10-change-service-content.md',
+                '/guide/legal/11-changes-to-terms-and-conditions.md',
+                '/guide/legal/12-handling-of-personal-information.md',
+                '/guide/legal/13-notification-or-contact.md',
+                '/guide/legal/14-prohibition-of-transfer-of-rights-and-obligations.md',
+                '/guide/legal/15-governing-law-jurisdiction.md'
               ]
             },
           ]
