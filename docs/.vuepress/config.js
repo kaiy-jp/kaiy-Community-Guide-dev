@@ -40,14 +40,14 @@
             '/',
             {
               title: 'リリースノート',
-              collapsable: false,
+              collapsable: true,
               children: [
                 '/guide/release-note/release-note.md'
               ]
             },
             {
               title: 'Get Started',
-              collapsable: false,
+              collapsable: true,
               children: [
                 '/guide/get-started/what-is-kaiy.md',
                 "/guide/get-started/kaiy's-vision.md",
@@ -56,21 +56,21 @@
             },
             {
               title: 'User Guide',
-              collapsable: false,
+              collapsable: true,
               children: [
                 '/guide/user-guide/user-guide.md'
               ]
             },
             {
               title: 'Developer Guide',
-              collapsable: false,
+              collapsable: true,
               children: [
                 '/guide/developer-guide/developer-guide.md'
               ]
             },
             {
               title: '利用規約',
-              collapsable: false,
+              collapsable: true,
               children: [
                 '/guide/legal/legal.md'
               ]
