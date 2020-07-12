@@ -65,14 +65,14 @@
               title: 'Get Started',
               collapsable: false,
               children: [
-                '/guide/get-started/get-started.md',
+                '/guide/get-started/get-started.md'
               ]
             },
             {
               title: 'User Guide',
               collapsable: false,
               children: [
-                '/guide/user-guide/user-guide.md',
+                '/guide/user-guide/user-guide.md'
               ]
             },
             {
