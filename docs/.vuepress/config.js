@@ -88,11 +88,10 @@
               title: '利用規約',
               collapsable: false,
               children: [
-                '/guide/legal/previous.md',
                 '/guide/legal/1-apply.md',
                 '/guide/legal/2-registration.md',
                 '/guide/legal/3-userid-password.md',
-                '/guide/legal/4-third-usage-fee-payment.md',
+                '/guide/legal/4-usage-fee-payment.md',
                 '/guide/legal/5-prohibitions.md',
                 '/guide/legal/6-discontinuation-of-offer.md',
                 '/guide/legal/7-usage-restrictions-deregistration.md',
