@@ -42,7 +42,23 @@
               title: 'リリースノート',
               collapsable: false,
               children: [
-                '/guide/release-note/release-note.md'
+                '/guide/release-note/ver-063.md',
+                '/guide/release-note/ver-062.md',
+                '/guide/release-note/ver-061.md',
+                '/guide/release-note/ver-060.md',
+                '/guide/release-note/ver-0510.md',
+                '/guide/release-note/ver-059.md',
+                '/guide/release-note/ver-058.md',
+                '/guide/release-note/ver-056.md',
+                '/guide/release-note/ver-055.md',
+                '/guide/release-note/ver-050.md',
+                '/guide/release-note/ver-045.md',
+                '/guide/release-note/ver-044.md',
+                '/guide/release-note/ver-043.md',
+                '/guide/release-note/ver-042.md',
+                '/guide/release-note/ver-030.md',
+                '/guide/release-note/ver-020.md',
+                '/guide/release-note/ver-010.md'
               ]
             },
             {
