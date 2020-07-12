@@ -42,21 +42,39 @@
               title: 'リリースノート',
               collapsable: false,
               children: [
-                '/guide/release-note/release-note.md'
+                '/guide/release-note/ver063.md',
+                '/guide/release-note/ver062.md',
+                '/guide/release-note/ver061.md',
+                '/guide/release-note/ver060.md',
+                '/guide/release-note/ver0510.md',
+                '/guide/release-note/ver059.md',
+                '/guide/release-note/ver058.md',
+                '/guide/release-note/ver056.md',
+                '/guide/release-note/ver055.md',
+                '/guide/release-note/ver050.md',
+                '/guide/release-note/ver045.md',
+                '/guide/release-note/ver044.md',
+                '/guide/release-note/ver043.md',
+                '/guide/release-note/ver042.md',
+                '/guide/release-note/ver030.md',
+                '/guide/release-note/ver020.md',
+                '/guide/release-note/ver010.md'
               ]
             },
             {
               title: 'Get Started',
               collapsable: false,
               children: [
-                '/guide/get-started/get-started.md',
+                '/guide/get-started/what-is-kaiy.md',
+                "/guide/get-started/kaiy's-vision.md",
+                '/guide/get-started/kaiy-overview.md'
               ]
             },
             {
               title: 'User Guide',
               collapsable: false,
               children: [
-                '/guide/user-guide/user-guide.md',
+                '/guide/user-guide/user-guide.md'
               ]
             },
             {
@@ -67,17 +85,24 @@
               ]
             },
             {
-              title: '用語集',
-              collapsable: false,
-              children: [
-                '/guide/glossary/glossary.md'
-              ]
-            },
-            {
               title: '利用規約',
               collapsable: false,
               children: [
-                '/guide/legal/legal.md'
+                '/guide/legal/1-apply.md',
+                '/guide/legal/2-registration.md',
+                '/guide/legal/3-userid-password.md',
+                '/guide/legal/4-usage-fee-payment.md',
+                '/guide/legal/5-prohibitions.md',
+                '/guide/legal/6-discontinuation-of-offer.md',
+                '/guide/legal/7-usage-restrictions-deregistration.md',
+                '/guide/legal/8-unsubscribe.md',
+                '/guide/legal/9-disclaimer.md',
+                '/guide/legal/10-change-service-content.md',
+                '/guide/legal/11-changes-to-terms-and-conditions.md',
+                '/guide/legal/12-handling-of-personal-information.md',
+                '/guide/legal/13-notification-or-contact.md',
+                '/guide/legal/14-prohibition-of-transfer-of-rights-and-obligations.md',
+                '/guide/legal/15-governing-law-jurisdiction.md'
               ]
             },
           ]
