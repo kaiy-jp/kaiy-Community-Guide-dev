@@ -11,4 +11,8 @@
 
 ## [Developer Guide](./developer-guide/developer-guide.md)
 
+## [既知のバグ](./known-bugs/known-bugs)
+
+## [行動規範](./code-of-conduct/code-of-conduct.md)
+
 ## [利用規約](./legal/legal.md)
