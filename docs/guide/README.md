@@ -1,20 +1,18 @@
 # サイトマップ
 
-## ヘルプ
-* [フロアへ入る方法](./help/how-to-enter-the-floor.md)
-* [他の人を招待する方法](./help/how-to-invite-others.md)
-* [フロアから離脱する方法](./help/how-to-leave-floor.md)
-* [通話をする方法](./help/how-to-make-a-call.md)
-* [YouTubeの動画をkaiy.coのフロアで再生する方法](./help/how-to-play-youtube-videos-on-kaiy-co-floor.md)
-* [フロアーの管理メニューの起動方法](./help/how-to-start-the-floor-administration-menu.md)
-* [ビデオ通話時の「帯域」の考え方](./help/concept-of-bandwidth-during-video-calls.md)
+## [リリースノート](./release-note/release-note.md)
 
-## リリースノート
-* [Ver 0.1.0](./Release-note/Ver-0-1.md)
-* [Ver 0.2.0](./Release-note/Ver-0-2.md)
-* [Ver 0.3.0](./Release-note/Ver-0-3.md)
-* [Ver 0.4.0](./Release-note/Ver-0-4.md)
-* [Ver 0.5.0](./Release-note/Ver-0-5.md)
+## [既知のバグ](./known-bugs/known-bugs)
 
-## 利用規約
-* [利用規約](./legal/terms-of-service.md)
+## Get Started
+* [kaiyとは](./get-started/kaiy's-vision.md)
+* [kaiyのビジョン](./get-started/kaiy's-vision.md)
+* [kaiyの概要](./get-started/kaiy-overview.md)
+
+## [User Guide](./user-guide/user-guide.md)
+
+## [Developer Guide](./developer-guide/developer-guide.md)
+
+## [コミュニティガイドライン](./code-of-conduct/code-of-conduct.md)
+
+## [利用規約](./legal/legal.md)

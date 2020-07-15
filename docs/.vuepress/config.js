@@ -1,3 +1,4 @@
+  
   const autometaOptions = {
     image: false,
     site: {
@@ -38,34 +39,40 @@
           sidebar: [
             '/',
             {
-              title: 'ヘルプ',
-              collapsable: false,
-              children: [
-                '/guide/help/how-to-enter-the-floor.md',
-                '/guide/help/how-to-invite-others.md',
-                '/guide/help/how-to-leave-floor.md',
-                '/guide/help/how-to-make-a-call.md',
-                '/guide/help/how-to-play-youtube-videos-on-kaiy-co-floor.md',
-                '/guide/help/how-to-start-the-floor-administration-menu.md',
-                '/guide/help/concept-of-bandwidth-during-video-calls.md'
-              ]
-            },
-            {
               title: 'リリースノート',
-              collapsable: false,
+              collapsable: true,
               children: [
-                '/guide/Release-note/Ver-0-1.md',
-                '/guide/Release-note/Ver-0-2.md',
-                '/guide/Release-note/Ver-0-3.md',
-                '/guide/Release-note/Ver-0-4.md',
-                '/guide/Release-note/Ver-0-5.md'
+                '/guide/release-note/release-note.md'
               ]
             },
             {
-              title: "利用規約",
-              collapsable: false,
+              title: 'Get Started',
+              collapsable: true,
               children: [
-                '/guide/legal/terms-of-service.md'
+                '/guide/get-started/what-is-kaiy.md',
+                "/guide/get-started/kaiy's-vision.md",
+                '/guide/get-started/kaiy-overview.md'
+              ]
+            },
+            {
+              title: 'User Guide',
+              collapsable: true,
+              children: [
+                '/guide/user-guide/user-guide.md'
+              ]
+            },
+            {
+              title: 'Developer Guide',
+              collapsable: true,
+              children: [
+                '/guide/developer-guide/developer-guide.md'
+              ]
+            },
+            {
+              title: '利用規約',
+              collapsable: true,
+              children: [
+                '/guide/legal/legal.md'
               ]
             },
           ]
