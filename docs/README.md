@@ -2,10 +2,10 @@
 home: true
 actionText: Get Started →
 actionLink: /guide/
-heroImage: /k-co-logo-pink.svg
+heroImage: /kaiy-co-logo-gray.svg
 heroAlt: kaiy Community Guide
 heroText:
+footer: Copyright　2019-2020  KaiY.design.system
 ---
 
-<brand-info />
-<members-icon />
+<home />
