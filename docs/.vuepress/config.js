@@ -19,7 +19,7 @@ module.exports = {
       apiKey: '8c789b5d0ee680a4a383673877be347d',
       indexName: 'kaiy-community',
     },
-    logo: '/kaiy-co-logo-gray.svg',
+    logo: '/k_gray.svg',
     docsDir: 'docs',
     repo: 'https://github.com/kaiy-jp/kaiy-community',
     editLinks: true,
