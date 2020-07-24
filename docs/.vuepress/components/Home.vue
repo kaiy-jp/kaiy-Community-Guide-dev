@@ -97,7 +97,7 @@
         <h3 class="p-sponsors__title">Sponsors</h3>
         <ul class="p-sponsors__items">
           <li class="p-sponsors__item">
-            <img class="p-sponsors__logo" src="../public/logo-fujigate.svg" alt />
+            <img class="p-sponsors__logo" src="../public/fujigate_logo.svg" alt />
           </li>
         </ul>
       </div>
