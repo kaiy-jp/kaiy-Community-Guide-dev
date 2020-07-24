@@ -118,7 +118,7 @@ module.exports = {
       'meta',
       {
         property: 'twitter:image:src',
-        content: 'https://vue-community.org/cover.png',
+        content: '../public/k_gray.svg',
       },
     ],
   ],
