@@ -47,7 +47,7 @@ module.exports = {
             collapsable: true,
             children: [
               '/guide/get-started/what-is-kaiy.md',
-              "/guide/get-started/kaiy's-vision.m",
+              "/guide/get-started/kaiy's-vision.md",
               '/guide/get-started/kaiy-overview.md',
             ],
           },
