@@ -1,4 +1,4 @@
-# WebRTCで利用する代表的なプロトコル
+# WebRTCで利用する代表的プロトコル
 
 ## ICE
 - Interactive Connectivity Establishmentの略語です。
