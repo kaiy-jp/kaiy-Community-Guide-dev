@@ -1,4 +1,4 @@
-# サイトマップ
+# KAiY(界隈)コミュニティガイド サイトマップ
 
 ## [リリースノート](./release-note/release-note.md)
 
@@ -18,7 +18,7 @@
 * [WebRTCデバッグガイド](./developers-guide/developers-debug.md)
 * [WebRTCプロトコル](./developers-guide/developers-protocol.md)
 
-## [コミュニティガイドライン](./code-of-conduct/code-of-conduct.md)
+## [KAiYコミュニティガイドライン](./code-of-conduct/code-of-conduct.md)
 
 ## [利用規約](./legal/legal.md)
 
