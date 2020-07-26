@@ -52,6 +52,13 @@ module.exports = {
             ],
           },
           {
+            title: 'よくあるご質問（FAQ)',
+            collapsable: true,
+            children: [
+              '/guide/faq/faq.md',                                                              
+             ],
+          },
+          {
             title: 'User Guide',
             collapsable: true,
             children: ['/guide/user-guide/user-guide.md'],
@@ -63,12 +70,17 @@ module.exports = {
               '/guide/developers-guide/developers-tutorial.md',
               '/guide/developers-guide/developers-debug.md',
               '/guide/developers-guide/developers-protocol.md',                                                                 
-                      ],
+              ],
           },
           {
             title: '利用規約',
             collapsable: true,
             children: ['/guide/legal/legal.md'],
+          },
+          {
+            title: '利用ライセンス',
+            collapsable: true,
+            children: ['/guide/licence/licence.md'],
           },
         ],
       },
