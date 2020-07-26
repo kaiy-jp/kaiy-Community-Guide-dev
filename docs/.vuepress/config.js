@@ -1,7 +1,7 @@
 const autometaOptions = {
   image: false,
   site: {
-    name: 'kaiy Community Guide',
+    name: 'KAiY Community Guide',
   },
 }
 
@@ -9,8 +9,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP',
-      title: 'kaiy Community Guide',
-      description: 'The community guide to kaiy',
+      title: 'kAiY Community Guide',
+      description: 'The community guide to KAiY',
     },
   },
   // serviceWorker: true,
@@ -52,19 +52,35 @@ module.exports = {
             ],
           },
           {
+            title: 'よくあるご質問（FAQ)',
+            collapsable: true,
+            children: [
+              '/guide/faq/faq.md',                                                              
+             ],
+          },
+          {
             title: 'User Guide',
             collapsable: true,
             children: ['/guide/user-guide/user-guide.md'],
           },
           {
-            title: 'Developer Guide',
+            title: "Developer's Guide",
             collapsable: true,
-            children: ['/guide/developer-guide/developer-guide.md'],
+            children: [
+              '/guide/developers-guide/developers-tutorial.md',
+              '/guide/developers-guide/developers-debug.md',
+              '/guide/developers-guide/developers-protocol.md',                                                                 
+              ],
           },
           {
             title: '利用規約',
             collapsable: true,
             children: ['/guide/legal/legal.md'],
+          },
+          {
+            title: 'Open source licence',
+            collapsable: true,
+            children: ['/guide/licence/licence.md'],
           },
         ],
       },
@@ -118,7 +134,7 @@ module.exports = {
       'meta',
       {
         property: 'twitter:image:src',
-        content: 'https://vue-community.org/cover.png',
+        content: 'https://docs.kaiy.co/k_gray.svg',
       },
     ],
   ],
