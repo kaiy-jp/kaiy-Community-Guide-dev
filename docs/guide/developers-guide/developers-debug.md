@@ -1,20 +1,20 @@
 # WebRTCのデバッグツール
 
-## 1. Google Chrome
-### `chrome://webrtc-internals/`をブラウザのアドレスバーに入力してください。
+## 1. Google Chromeの場合
+#### `chrome://webrtc-internals/`をブラウザのアドレスバーに入力してください。
 - Google Chromeブラウザに組み込まれているWebRTCデバッグツールです。
 - Peerセッションのイベントやシグナリングの経過、送受信中の統計データが確認できます。
 - 相手のPeerとやり取りしている映像のサイズ、映像のFPSや映像・音声のビットレートも見えます。
 - スマートフォン版Chromeだと、相手から送られてくる受信側のデータしか見られません。
 
-## 2.  Firefox
-### `about:webrtc`をブラウザにアドレスバーに入力してください。
+## 2.  Firefoxの場合
+#### `about:webrtc`をブラウザにアドレスバーに入力してください。
 - PeerConnectionごとに、ICE・SDP・RTPの情報を見ることができます。
 - 接続ログでICE交換するCandidateや処理経過を確認することができます。
 - Chromeと異なりフレームレートや解像度のグラフが表示されないため、解析性は落ちます。
 
 ## 2. wireshark
-### [wiresharkの説明](https://ja.wikipedia.org/wiki/Wireshark)(Wikipedia)
+#### [wiresharkの説明](https://ja.wikipedia.org/wiki/Wireshark)(Wikipedia)
 - パケットをキャプチャすることが可能なネットワークアナライザです。
 
 ## 3. WebRTC Troubleshooter

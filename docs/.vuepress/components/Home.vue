@@ -123,7 +123,7 @@ export default {
           link: "",
           src: "https://placehold.jp/150x150.png",
           name: "Mono Arai",
-          about: "Project ManagerCeaf\nArchitect\nDesigner",
+          about: "Project Manager\nCeafArchitect\nDesigner",
         },
         {
           link: "",
