@@ -122,7 +122,7 @@ module.exports = {
       'meta',
       {
         property: 'twitter:image:src',
-        content: 'https://docs.kaiy.co/k_gray.svg'
+        content: 'https://docs.kaiy.co/k_gray.svg',
       },
     ],
   ],
