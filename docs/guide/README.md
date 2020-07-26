@@ -14,9 +14,9 @@
 ## [User Guide](./user-guide/user-guide.md)
 
 ## Developer's Guide
-* [WebRTCチュートリアル](./developers-guide/tutorial.md)
-* [WebRTCデバッグガイド](./developers-guide/debug.md)
-* [WebRTCプロトコル](./developers-guide/protocol.md)
+* [WebRTCチュートリアル](./developers-guide/developers-tutorial.md)
+* [WebRTCデバッグガイド](./developers-guide/developers-debug.md)
+* [WebRTCプロトコル](./developers-guide/developers-protocol.md)
 
 ## [コミュニティガイドライン](./code-of-conduct/code-of-conduct.md)
 
