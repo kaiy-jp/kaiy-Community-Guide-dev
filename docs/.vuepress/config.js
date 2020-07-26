@@ -78,7 +78,7 @@ module.exports = {
             children: ['/guide/legal/legal.md'],
           },
           {
-            title: '利用ライセンス',
+            title: 'Open source licence',
             collapsable: true,
             children: ['/guide/licence/licence.md'],
           },
