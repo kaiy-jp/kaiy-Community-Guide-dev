@@ -57,7 +57,7 @@ module.exports = {
             children: ['/guide/user-guide/user-guide.md'],
           },
           {
-            title: 'Developer Guide',
+            title: 'Developers Guide',
             collapsable: true,
             children: ['/guide/developer-guide/developer-guide.md'],
           },
@@ -118,7 +118,7 @@ module.exports = {
       'meta',
       {
         property: 'twitter:image:src',
-        content: 'https://vue-community.org/cover.png',
+        content: 'https://docs.kaiy.co/k_gray.svg',
       },
     ],
   ],
