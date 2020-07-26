@@ -31,8 +31,8 @@
 
 ## ICE
 - Interactive Connectivity Establishmentの略です。
-- [RFC5245](https://tex2e.github.io/rfc-translater/html/rfc5245.html)
+- [RFC5245](https://tex2e.github.io/rfc-translater/html/rfc5245.html)(日本語機械翻訳)
 
 ## TURN
 - Traversal Using Releys around NATの略です。
-- [RFC5766](https://tex2e.github.io/rfc-translater/html/rfc5766.html)
+- [RFC5766](https://tex2e.github.io/rfc-translater/html/rfc5766.html)(日本語機械翻訳)
