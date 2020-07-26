@@ -59,9 +59,10 @@ module.exports = {
           {
             title: "Developer's Guide",
             collapsable: true,
-            children: ['/guide/developers-guide/developers-tutorial.md',
-                       '/guide/developers-guide/developers-debug.md',
-                       '/guide/developers-guide/developers-protocol.md',                                                                 
+            children: [
+              '/guide/developers-guide/developers-tutorial.md',
+              '/guide/developers-guide/developers-debug.md',
+              '/guide/developers-guide/developers-protocol.md',                                                                 
                       ],
           },
           {
