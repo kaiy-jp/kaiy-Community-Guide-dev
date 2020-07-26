@@ -1,7 +1,7 @@
 const autometaOptions = {
   image: false,
   site: {
-    name: 'kaiy Community Guide',
+    name: 'KAiY Community Guide',
   },
 }
 
@@ -9,8 +9,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP',
-      title: 'kaiy Community Guide',
-      description: 'The community guide to kaiy',
+      title: 'kAiY Community Guide',
+      description: 'The community guide to KAiY',
     },
   },
   // serviceWorker: true,
