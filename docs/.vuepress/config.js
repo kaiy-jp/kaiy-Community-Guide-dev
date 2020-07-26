@@ -47,7 +47,7 @@ module.exports = {
             collapsable: true,
             children: [
               '/guide/get-started/what-is-kaiy.md',
-              "/guide/get-started/kaiy's-vision.md",
+              "/guide/get-started/kaiy's-vision.m",
               '/guide/get-started/kaiy-overview.md',
             ],
           },
@@ -57,9 +57,13 @@ module.exports = {
             children: ['/guide/user-guide/user-guide.md'],
           },
           {
-            title: 'Developer Guide',
+            title: "Developer's Guide",
             collapsable: true,
-            children: ['/guide/developer-guide/developer-guide.md'],
+            children: [
+              '/guide/developers-guide/developers-tutorial.md',
+              '/guide/developers-guide/developers-debug.md',
+              '/guide/developers-guide/developers-protocol.md',                                                                 
+                      ],
           },
           {
             title: '利用規約',
@@ -118,7 +122,7 @@ module.exports = {
       'meta',
       {
         property: 'twitter:image:src',
-        content: 'https://vue-community.org/cover.png',
+        content: 'https://docs.kaiy.co/k_gray.svg',
       },
     ],
   ],
