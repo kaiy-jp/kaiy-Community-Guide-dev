@@ -11,7 +11,7 @@
 ## STUN
 - STUNは、Session Traversal Utilities for NATの略語です。
 - [RFC5389](https://tex2e.github.io/rfc-translater/html/rfc5389.html)(日本語機械翻訳)
-- [STUN (RFC 3489) とSTUN RFC (5389/5780) の比較](https://www.netmanias.com/en/post/techdocs/6065/nat-network-protocol/stun-rfc-3489-vs-stun-rfc-5389-5780)
+- [STUN (RFC 3489) とSTUN (RFC 5389/5780) の比較](https://www.netmanias.com/en/post/techdocs/6065/nat-network-protocol/stun-rfc-3489-vs-stun-rfc-5389-5780)
 
 ## NAT
 - NATは、Network Address Translationの略語です。
